@@ -1,24 +1,8 @@
-# README
+# Usar commando 
+## rails s -b 'ssl://localhost:3000?key=localhost.key&cert=localhost.crt'
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Click Avanzado
 
-Things you may want to cover:
+### Click Continuar a localhost (no seguro)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Listo!!
